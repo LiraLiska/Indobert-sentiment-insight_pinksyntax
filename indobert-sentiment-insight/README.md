@@ -167,6 +167,15 @@ Neutral 🌸
 
 ---
 
+## 📒 Notebook Pelatihan Model
+
+Proses pelatihan (training) model dilakukan menggunakan **Google Colab**. Seluruh tahapan mulai dari preprocessing data, pseudo-labeling, tokenisasi, fine-tuning IndoBERT, evaluasi model, hingga penyimpanan model terdokumentasi pada notebook berikut:
+
+**File:** `model_trained.app`
+
+Notebook tersebut dapat digunakan untuk melihat maupun mereproduksi proses pelatihan model yang digunakan pada proyek ini.
+
+
 # ⚠️ Catatan Deployment
 Aplikasi ini telah dipersiapkan untuk deployment menggunakan Hugging Face Spaces. Namun, proses deployment tidak dapat diselesaikan karena repository telah mencapai batas penyimpanan (Repository Storage Limit Reached), sehingga file model (model.safetensors) tidak dapat diunggah.
 
