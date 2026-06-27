@@ -41,11 +41,10 @@ indobert-sentiment-insight/
 │
 ├── app.py
 ├── requirements.txt
-├── Dockerfile
 ├── README.md
 └── model_akhir/
     ├── config.json
-    ├── model.safetensors
+    ├── model.safetensors (harus didownload di drive dulu)
     ├── tokenizer.json
     └── tokenizer_config.json
 ```
