@@ -175,6 +175,9 @@ Proses pelatihan (training) model dilakukan menggunakan **Google Colab**. Seluru
 
 Notebook tersebut dapat digunakan untuk melihat maupun mereproduksi proses pelatihan model yang digunakan pada proyek ini.
 
+> **Catatan:** File model hasil training (`model.safetensors`) tidak disertakan di repository karena keterbatasan ukuran penyimpanan. Namun, seluruh proses pelatihan model dapat dilihat pada notebook Google Colab yang tersedia di repository ini.
+
+
 
 # ⚠️ Catatan Deployment
 Aplikasi ini telah dipersiapkan untuk deployment menggunakan Hugging Face Spaces. Namun, proses deployment tidak dapat diselesaikan karena repository telah mencapai batas penyimpanan (Repository Storage Limit Reached), sehingga file model (model.safetensors) tidak dapat diunggah.
